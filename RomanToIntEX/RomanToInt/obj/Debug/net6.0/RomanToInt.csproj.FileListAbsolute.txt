@@ -1,0 +1,14 @@
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\bin\Debug\net6.0\RomanToInt.exe
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\bin\Debug\net6.0\RomanToInt.deps.json
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\bin\Debug\net6.0\RomanToInt.runtimeconfig.json
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\bin\Debug\net6.0\RomanToInt.dll
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\bin\Debug\net6.0\RomanToInt.pdb
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfoInputs.cache
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfo.cs
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\RomanToInt.dll
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\refint\RomanToInt.dll
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\RomanToInt.pdb
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\RomanToInt.genruntimeconfig.cache
+C:\Users\infprog\Desktop\briizi71\RomanToIntEX\RomanToInt\obj\Debug\net6.0\ref\RomanToInt.dll
